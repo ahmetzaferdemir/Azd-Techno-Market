@@ -1,2 +1,2 @@
 # Azd Techno Market
- Html CSS Bootstrap ve Javascript kullanılmıştır. Kullanılan görseller Photoshop ile düzenlenmiştir.
+ Html CSS Bootstrap ve Javascript kullanılmıştır. Kullanılan resimler Photoshop ile düzenlenmiştir.
